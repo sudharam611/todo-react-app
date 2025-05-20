@@ -7,3 +7,10 @@ Todo allows to add, complete, delete and filter tasks
 - Vite
 - useReducer for state management
 - CSS for styling
+
+## Project Structure
+- src /
+-   components/
+-   reducer/
+- App.jsx
+- App.css
